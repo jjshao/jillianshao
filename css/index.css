@@ -185,6 +185,11 @@ hr.black {
 	border-radius: 3em;
 }
 
+.images-border-primary {
+	border: .5em solid #007bff;
+	border-radius; 3em;
+}
+
 /* 
 		https://stackoverflow.com/a/2711996 
 */
