@@ -180,9 +180,9 @@ hr.black {
 	border-radius: 3em;
 }
 
-.images-border-skiing {
-	border: .5em solid #000000;
-	border-radius: 50%;
+.images-border-white {
+	border: .5em solid #ffffff;
+	border-radius: 3em;
 }
 
 /* 
@@ -190,11 +190,6 @@ hr.black {
 */
 .images-size-mtb {
 	width: 70%;
-	height: auto;
-}
-
-.images-size-skiing {
-	width: 90%;
 	height: auto;
 }
 
