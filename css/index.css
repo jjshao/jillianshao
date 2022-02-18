@@ -191,11 +191,11 @@ hr.black {
 }
 
 /* 
-		https://stackoverflow.com/a/2711996 
+https://stackoverflow.com/questions/19414856/how-can-i-make-all-images-of-different-height-and-width-the-same-via-css
 */
 .images-size-mtb {
-	width: 70%;
-	height: auto;
+	width: 100px;
+	height: 100px;
 }
 
 /* Rl Red Color */
