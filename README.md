@@ -1,4 +1,6 @@
-downing.io
+View Jillian's personal site [HERE](https://jjshao.github.io/jillianshao/)
+
+Forked from: downing.io
 ================================================================================
 
 Source code for my personal website. MIT Licensed. Contains a copy of my resume, 
